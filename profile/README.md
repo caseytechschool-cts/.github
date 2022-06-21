@@ -1,6 +1,5 @@
 # About Casey Tech School
 
-![banner](download.jpg)
 
 Casey Tech School is a shared learning facility that delivers high-tech, leading edge courses to students from 23 secondary schools in the Casey region.
 
